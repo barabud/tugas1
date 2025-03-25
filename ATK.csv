@@ -1,0 +1,10 @@
+Nama,Jumlah,Harga,Terjual
+Buku,1,10000,Yes
+Pensil,1,5000,No
+Spidol,2,25000,Yes
+Penggaris,4,30000,Yes
+Pulpen,3,,No
+Penghapus,5,45000,Yes
+Binder,1,25000,No
+Cutter,,30000,No
+Gunting,3,45000,Yes
